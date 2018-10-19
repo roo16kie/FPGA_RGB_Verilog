@@ -12,7 +12,8 @@ Program 1.  使用兩顆 RGB LED 實作十字路口的紅綠燈。
             
 Program 2.  使用按鈕調整 RGB LED 的 RGB值。
 
-　　　　　　 botton 1 reset RGB 的 PWM 值。 
+　　　　　　 
+            botton 1 reset RGB 的 PWM 值。 
        
             botton 3, 4 分別為增加或減少 PWM 值。 
             
